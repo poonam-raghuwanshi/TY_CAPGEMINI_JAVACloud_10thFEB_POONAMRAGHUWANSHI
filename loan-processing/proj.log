@@ -1,0 +1,18 @@
+[main] INFO  com.capgemini.controller.MainController  - ******** W E L C O M E ********
+[main] INFO  com.capgemini.controller.MainController  - ********      TO       ********
+[main] INFO  com.capgemini.controller.MainController  - ********   BBI LOANS   ********
+[main] INFO  com.capgemini.controller.Login  - ********************* WELCOME ********************
+[main] INFO  com.capgemini.controller.Login  - 1> Login as Customer?
+[main] INFO  com.capgemini.controller.Login  - 2> Login as Employee?
+[main] INFO  com.capgemini.controller.Login  - 3> New user? Register
+[main] INFO  com.capgemini.controller.Login  - 4> Exit
+[main] INFO  com.capgemini.controller.Login  - **************************************************
+[main] INFO  com.capgemini.controller.MainController  - ******** W E L C O M E ********
+[main] INFO  com.capgemini.controller.MainController  - ********      TO       ********
+[main] INFO  com.capgemini.controller.MainController  - ********   BBI LOANS   ********
+[main] INFO  com.capgemini.controller.Login  - ********************* WELCOME ********************
+[main] INFO  com.capgemini.controller.Login  - 1> Login as Customer?
+[main] INFO  com.capgemini.controller.Login  - 2> Login as Employee?
+[main] INFO  com.capgemini.controller.Login  - 3> New user? Register
+[main] INFO  com.capgemini.controller.Login  - 4> Exit
+[main] INFO  com.capgemini.controller.Login  - **************************************************
